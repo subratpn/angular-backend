@@ -41,4 +41,7 @@ public class EmployeeService {
         return null;
     }
 
+    public void deleteEmployee(String employeeId) {
+        employeeRepo.deleteById(employeeId);
+    }
 }
