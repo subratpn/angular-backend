@@ -4,4 +4,4 @@ spring:
       uri: mongodb+srv://pushpak:Raja261194@cluster0.hestg.mongodb.net/test
 
 server:
-  port: 8099
+  port: 8080
